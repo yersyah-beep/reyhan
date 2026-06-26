@@ -1,0 +1,29 @@
+/* Expense & Budget Visualizer — main stylesheet
+   Full styles will be implemented in task 15.
+   CSS custom properties will drive both light and dark themes.
+*/
+
+:root {
+  /* Placeholder colour tokens — will be fully defined in task 15 */
+  --color-bg: #ffffff;
+  --color-text: #111111;
+  --color-primary: #2563eb;
+}
+
+[data-theme="dark"] {
+  --color-bg: #1a1a2e;
+  --color-text: #e2e8f0;
+  --color-primary: #60a5fa;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: system-ui, sans-serif;
+}
