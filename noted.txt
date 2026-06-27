@@ -1,2 +1,2 @@
-ada yang salah dari laptop saya atau di kiro nya. karena saya sudah tunggu semalaman kiro tidak selesai selesai mengerjakan apa yang saya suruh dan ketika di commit pun masih stag loading.
+ada yang salah dari laptop saya atau di kiro nya. karena saya sudah tunggu semalaman kiro tidak selesai selesai mengerjakan apa yang saya suruh dan ketika di commit pun masih stack loading.
 kiro seperti tidak bekerja maksimal hanya membuat rangka seluruh file tapi tidak di selesaikan dengan baik
